@@ -48,5 +48,5 @@ def classify_binary():
 
 
 if __name__ == '__main__':
-    app.run(port=1234)
+    app.run(port=1794)
     input()
